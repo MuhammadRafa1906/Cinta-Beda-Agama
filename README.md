@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -68,17 +69,37 @@
     <p>Malam itu kekasihnya berkata "Arga, aku rasa cinta itu tidak dapat menyatukan semua perbedaan yang ada diantara kita"
       "Lalu, hal apa yang ingin kamu satukan dari perbedaan itu? " Arga menjawab sambil kebingungan
       "Hal yang ingin aku satukan adalah tentang kenyakinan diantara kita, ada baiknya kita menjadi satu keyakinan, dan satu kepercayaan. Agar kita dapat terikat dalam ikatan suci"</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>Setelah itu Maura mengakhiri pembicaraannya. Pipiku serasa habis ditampar oleh kenyataan, mulutku yang terbungkam, dan kakiku yang seketika kaku    </p>
+    <p>"Maura, begitu mudahnya kamu menyuruhku untuk berpaling dari Tuhan dan keyakinanku untuk berpindah kepada Tuhan dan keyakinanmu. Bukankah kita dari awal sudah berkomitmen untuk tidak menggadaikan Tuhan dan keyakinan kita untuk hal apapun? " Arga menjawab dengan sedikit emosi
+    </p>
+    <p>"Iyaa arga, aku ngerti... . Tapi kita mau sampai kapan tetap menjalin hubungan tetapi kita beda agama, bukannya kamu tau kalo mama tak pernah merestui hubungan kita kalau kita masih beda Agama? "
+    </p>
+    <p>Dimalam itu Arga merasa sangat dilema. Karena Arga harus memilih dua keputusan yang sama berat dan tidak dapat diambil saat itu juga. 
+    </p>
+    <p>Air mata tak mampu lagi Arga tahan. Perlahan air mata pun jatuh hingga membasahi pipi, seakan tak bisa berpikir,dan mulut seakan diam dan membungkam.</p>
+    <p>Kaki rasanya, tak ingin lagi untuk berjalan. "Apakah ini akhir dari kisah kita? ",  " Haruskah cinta kita berakhir dengan cara ini? "," Dan Haruskah aku memilih entah cinta atau agama?". Tanya Arga dalam kebingungan.</p>
+    <p>" Tuhan, apa yang sedang engkau rencanakan dibalik semua ini? "    </p>
+    <p>Arga berdoa didalam kebingungan dan berkata "Aku mencintaimu ya Allah, dan tak sedikit pun didalam benakku untuk melupakanmu. Tetapi dia perempuan yang ku impikan selama ini, dia yang selalu ku mimpikan kelak untuk menjadi Ibu dari anak-anakku. "
+    </p>
+    <p>Disisi lain  Maura yang sedang dilanda kebingungan, merenung, dan berpikir "Dosa apa ya Tuhan yang telah aku perbuat, sehingga aku merasakan sakit yang sedalam ini? "
+    </p>
+    <p>Malam itu ada banyak pertanyaan yang berkecamuk didalam benak mereka berdua. 
+    </p>
+    <p>Dalam diam sesaat Arga menemukan satu jawaban yang harus dipilih satu diantara dua pilihan itu, dan saat itu Arga memutuskan untuk memilih Tuhan dan keyakinnanku. Arga sadar bahwa cinta yang abadi Hanyalah Cinta dari dia sang pencipta. 
+    </p>
+    <p>Arga memutuskan untuk tidak memberitahu secara langsung keputusan ini kepada Maura, kemudian Araga menyampaikan kepada melalui sepucuk surat. 
+    </p>
+    <p class="quote">"Untuk Maura</p>
 
-
-
-
-
-    <p class="quote">"Jangan pernah gadaikan Tuhan demi cinta."</p>
-    <p>Banyak sudah halang rintang yang mereka lalui...</p>
+      <p class="quote">Saat tinta hitamku menari di atas kertas putih ini, saat itu pula hatiku terasa begitu hancur dan perih. Butiran air mata ini tanpa permisi membasahi pipiku begitu saja, jiwaku seakan enggan mengucapkan namamu. Kau hadir seperti pelukis, yang melukiskan berbagai warna pada kanvas hidupku.
+      
+      Ketika sorot mata kita bertatapan untuk pertama kalinya, kurasakan debaran-debaran cinta yang indah. Namun kini semuanya tak terasa, seolah membeku di relung hatiku yang terdalam... </p>
+      
+      <p class="quote">Maura, aku memang sangat mencintaimu, tapi aku lebih mencintai Tuhanku. Jalan untuk sebuah cinta bisa dipilih, tapi tidak untuk keyakinan, Tuhanku bukan pilihan. 
+      "</p>
+    <p>Setahun berlalu, Arga dan Maura pada akhirnya menjalani hidup dengan pilihannya mamasing-masing. Satu hal yang membuat kita mengerti akan rencana Tuhan adalah " Kita memang hidup ditengah keberagaman Agama, dan budaya. Namun satu yang pasti, perbedaan memang menyatukan kita, tetapi tidak dalam hal agama, dan kepercayaan. Jangan pernah sekali-kali menggadaikan agama-mu Tuhanmu demi cintamu, karena cinta yang tulus dan Abadi hanya datang dari Tuhan Yang Maha Esa. "</p>
+    <p>Cinta itu lebih pada kerelaan untuk melepaskan, dan satu prinsip dalam hidup yang harus kita pegang, jangan pernah gadaikan Tuhan demi cinta. Biarlah kesakralan cinta itu nampak dengan begitu natural tanpa harus dibuat-buat.</p>
+    
     <!-- Lanjutkan bagian konten lainnya -->
   </main>
   
