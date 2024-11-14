@@ -644,5 +644,5 @@
     <div class="menu-toggle" onclick="toggleMenu()">☰</div>
   </nav>
   
-  <h1>"Coming Soon"</h1>
+  <h1>"test"</h1>
 </body>
